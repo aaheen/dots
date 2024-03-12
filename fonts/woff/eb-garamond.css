@@ -1,0 +1,132 @@
+/*      Normal      */
+
+/* eb-garamond-thin */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 100;
+	src: local("EB Garamond Thin"), local("EBGaramond-Thin"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-extra-light */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 200;
+	src: local("EB Garamond Extra Light"), local("EBGaramond-ExtraLight"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-light */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 300;
+	src: local("EB Garamond Light"), local("EBGaramond-Light"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-regular */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 400;
+	src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-medium */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 500;
+	src: local("EB Garamond Medium"), local("EBGaramond-Medium"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-semibold */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 600;
+	src: local("EB Garamond Semibold"), local("EBGaramond-Semibold"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-bold */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 700;
+	src: local("EB Garamond Bold"), local("EBGaramond-Bold"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-extra-bold */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 800;
+	src: local("EB Garamond Extra Bold"), local("EBGaramond-ExtraBold"), url(eb-garamond-regular.woff2) format("woff2");
+}
+/* eb-garamond-black */
+@font-face {
+	font-family: EB Garamond;
+	font-style: normal;
+	font-weight: 900;
+	src: local("EB Garamond Black"), local("EBGaramond-Black"), url(eb-garamond-regular.woff2) format("woff2");
+}
+
+
+/*      Italic      */
+
+/* eb-garamond-thin */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 100;
+	src: local("EB Garamond Thin Italic"), local("EBGaramond-ThinItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-extra-light-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 200;
+	src: local("EB Garamond Extra Light Italic"), local("EBGaramond-ExtraLightItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-light-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 300;
+	src: local("EB Garamond Light Italic"), local("EBGaramond-LightItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-regular-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 400;
+	src: local("EB Garamond Regular Italic"), local("EBGaramond-RegularItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-medium-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 500;
+	src: local("EB Garamond Medium Italic"), local("EBGaramond-MediumItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-semibold-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 600;
+	src: local("EB Garamond Semibold Italic"), local("EBGaramond-SemiboldItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-bold-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 700;
+	src: local("EB Garamond Bold Italic"), local("EBGaramond-BoldItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-extra-bold-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 800;
+	src: local("EB Garamond Extra Bold Italic"), local("EBGaramond-ExtraBoldItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}
+/* eb-garamond-black-italic */
+@font-face {
+	font-family: EB Garamond;
+	font-style: italic;
+	font-weight: 900;
+	src: local("EB Garamond Black Italic"), local("EBGaramond-BlackItalic"), url(eb-garamond-italic.woff2) format("woff2");
+}

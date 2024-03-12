@@ -1,0 +1,4 @@
+https://projecteuler.net/rss2_euler.xml
+https://xkcd.com/rss.xml
+https://acm.umn.edu/rss.xml
+https://blog.codepen.io/feed/
