@@ -27,9 +27,17 @@ return require('packer').startup(function(use)
 		run = ':TSUpdate' 
 	}
 	
-	use { 'shaunsingh/nord.nvim', 
-		as = 'nord'
-	}
+	use ({
+    "neanias/everforest-nvim",
+    -- Optional; default configuration will be used if setup isn't called.
+    config = function()
+        require("everforest").setup()
+	end,
+    })
+
+	-- use { 'shaunsingh/nord.nvim', 
+	--	as = 'nord'
+	-- }
 
 	-- Automatically set up your configuration after cloning packer.nvim
 	-- Put this at the end after all plugins

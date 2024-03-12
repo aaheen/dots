@@ -12,7 +12,10 @@ vim.cmd([[
 -- QoL settings
 vim.cmd [[set number]]
 vim.cmd [[set tabstop=4]]
-vim.cmd [[set softtabstop=0 noexpandtab]]
+vim.cmd [[set shiftwidth=4]]
+vim.cmd [[set softtabstop=0]]
+vim.cmd [[set expandtab]]
+vim.cmd([[colorscheme everforest]])
 
 -- Themes
 --vim.cmd [[hi Normal ctermbg=none guibg=none]]
